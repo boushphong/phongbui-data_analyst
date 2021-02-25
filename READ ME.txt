@@ -1,0 +1,26 @@
+Data Set Taken From:
+https://www.kaggle.com/arashnic/marketing-series-customer-churn
+
+Objective: 
+Use the customer data from a telecom to predict which customers will stop being customers (churn) and those that will remain customers. 
+The target variable in the training file is “Churn.”
+
+2 Files:
+train.csv (Past Customers Dataset)
+test.csv (New Customers for Prediction)
+
+Working Files:
+Work.ipynb (Jupyter Notebook)
+
+EDA and Presentation.twbx (Tableau Public Edition)
+"""or can be downloaded as different file(image, powerpoint, etc...) at:
+https://public.tableau.com/profile/phong.bui5567#!/vizhome/EDAandPresentation/FeatureImportance"""
+
+Thought Process.docx (Word Document)
+
+
+Excess file produced in the working:
+dataset with cluster.csv
+feature_importance.csv
+origin.csv
+tree.png
